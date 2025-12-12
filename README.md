@@ -1,4 +1,4 @@
-Looking for a full-stack developer? Send an [email](mailto:albarjob@gmail.com).
+Looking for a Rust expert? Send an [email](mailto:albarjob@gmail.com).
 
 I am currently working on a [TCG framework using Rust](https://crates.io/crates/card-game).
 
